@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://volkrist.github.io/12testers-pages/sitemap.xml
